@@ -12,4 +12,6 @@ bundle exec rake deploy:cluster
 ```
 
 # To cleanup:
-bundle exec rake destroy 
+```
+bundle exec rake destroy
+```
